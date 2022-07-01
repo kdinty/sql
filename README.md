@@ -1,2 +1,2 @@
-# sql
-Test space for SQL
+# SQL Demos
+Test space for SQL.
